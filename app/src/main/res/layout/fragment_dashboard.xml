@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.dashboard.DashboardFragment">
+
+    <ImageView
+        android:layout_width="220dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="250dp"
+        android:layout_marginRight="110dp"
+        android:src="@drawable/kenma"
+        android:layout_gravity="center"/>
+    <ImageView
+        android:layout_width="220dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="250dp"
+        android:layout_marginLeft="100dp"
+        android:src="@drawable/kenma2"
+        android:layout_gravity="center"/>
+    <ImageView
+        android:layout_width="290dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="240dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="140dp"
+        android:src="@drawable/kenma4"
+        android:layout_gravity="center"/>
+
+    <ImageView
+        android:layout_width="270dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="140dp"
+        android:layout_marginRight="150dp"
+        android:layout_marginBottom="230dp"
+        android:src="@drawable/kenma6" />
+    <ImageView
+        android:layout_width="330dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="340dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginBottom="255dp"
+        android:src="@drawable/kenma7" />
+    <ImageView
+        android:layout_width="270dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="340dp"
+        android:layout_marginRight="150dp"
+        android:layout_marginBottom="250dp"
+        android:src="@drawable/kenma8" />
+    <ImageView
+        android:layout_width="330dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="500dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginBottom="230dp"
+        android:src="@drawable/kenma9" />
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="500dp"
+        android:layout_marginRight="110dp"
+        android:layout_marginBottom="250dp"
+        android:src="@drawable/kenma10" />
+</FrameLayout>
